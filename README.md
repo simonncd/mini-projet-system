@@ -1,2 +1,7 @@
 # mini-projet-system
-Contain function xxd and compare (C)
+Contain function :
+  -xxd 
+  -compare 
+  
+ Report .PDF
+ Langage C 
